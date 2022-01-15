@@ -81,5 +81,7 @@ i:hover {
     font-size: 1.5em;
     font-weight: 500;
     font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
