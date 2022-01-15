@@ -30,6 +30,9 @@ body {
     text-decoration: none;
     justify-content: center;
 }
+#title:hover {
+    transform: scale(1.4)
+}
 
 #links {
     max-width: 675px;
